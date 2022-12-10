@@ -12,3 +12,7 @@ Learning Flutter while building apps
 ## App 3: Magic Ball
 
 * [Check it out!](https://github.com/joaohenriquedossantos/Magic-ball-flutter-app/blob/main/README.md)
+
+## App 4: Xylophone
+
+* [Check it out!](https://github.com/joaohenriquedossantos/Xylophone-flutter-app/blob/main/README.md)
