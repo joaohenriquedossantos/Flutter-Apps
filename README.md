@@ -15,4 +15,4 @@ Learning Flutter while building apps
 
 ## App 4: Xylophone
 
-* [Check it out!](https://github.com/joaohenriquedossantos/Xylophone-flutter-app/blob/main/README.md)
+* [Check it out!](https://github.com/joaohenriquedossantos/Xylophone-flutter-app)
